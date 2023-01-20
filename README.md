@@ -1,3 +1,17 @@
+Por onde começar com testes unitários no Angular
+
+# Karma
+
+É um test runner JS que roda em node.js;
+É muito adequado para testar Angular ou outro projeto JS;
+Karma é usado para executar testes quando um dos muitos conjuntos de testes populares de JS (Jasmine, Mocha, QUnit, etc.)
+
+# Jasmine
+
+É um FrameWork para escrever testes para códigos JavaScript;
+Ele é independente de navegar na Web;
+Com o Jasmine vamos escrever nossos testes.
+
 # TesteUnitario
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
