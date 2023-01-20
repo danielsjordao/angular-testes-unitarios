@@ -1,0 +1,23 @@
+<h1>Teste Unitário Bank</h1> 
+<p>
+    <strong> Olá, Daniel Jordão</strong>
+    <br>    
+    Ag: 1983, CC: 15041983-0
+</p>
+<br>
+
+<p>
+    Poupança: R$ <span id="get-poupanca">{{ getPoupanca }}</span>
+    <br>    
+    <input id="input-sacar" type="text" #sacar>
+    <button id="sacar" (click)="setSacar(sacar.value)"> Sacar </button>
+</p>
+
+<p>
+    Carteira: R$  <span id="get-carteira">{{ getCarteira }}</span>
+    <br>
+    <input id="input-depositar" type="text" #depositar>
+    <button id="depositar" (click)="setDepositar(depositar.value)"> Depositar </button>
+</p>
+
+<app-list></app-list>
