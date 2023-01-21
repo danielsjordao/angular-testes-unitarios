@@ -1,4 +1,6 @@
-# Por onde começar com testes unitários no Angular
+# Objetivo da aula com testes unitários no Angular
+
+- O objetivo do módulo é absorver as técnicas para realização de testes unitários e Interface.
 
 # Karma
 
