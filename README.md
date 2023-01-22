@@ -4,8 +4,8 @@
 
 # Karma
 
-- É um test runner JS que roda em node.js;
-- É muito adequado para testar Angular ou outro projeto JS;
+- É um test runner JavaScript que roda em node.js;
+- É muito adequado para testar Angular ou outro projeto JavaScript;
 - Karma é usado para executar testes quando um dos muitos conjuntos de testes populares de JS (Jasmine, Mocha, QUnit, etc.)
 
 # Jasmine
