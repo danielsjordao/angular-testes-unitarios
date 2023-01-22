@@ -13,7 +13,7 @@
 - É um FrameWork para escrever testes para códigos JavaScript;
 - Ele é independente de navegar na Web;
 - Com o Jasmine vamos escrever nossos testes.
-- ng test --code-coverage (será disponibilizado localhost 9786)
+- Para acompanhar os testes unitários o programador deve digitar no terminal ng test --code-coverage (será disponibilizado localhost 9786)
 
 # TesteUnitario
 
